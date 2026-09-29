@@ -1,0 +1,1 @@
+-- Las tablas se crean automáticamente al iniciar server.js.
